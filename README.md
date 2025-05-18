@@ -25,6 +25,7 @@ An [awesome](https://github.com/sindresorhus/awesome) collection of indicators o
 - [da667/667s_Shitlist](https://github.com/da667/667s_Shitlist) - Hi kids, do you like cyber violence? Wanna see me destroy evil in the blink of an eyelid?
 - [eset/malware-ioc](https://github.com/eset/malware-ioc) - Indicators of Compromises (IOC) of our various investigations.
 - [fireeye/iocs](https://github.com/fireeye/iocs) - FireEye Publicly Shared Indicators of Compromise (IOCs).
+- [ThreatFox](https://threatfox.abuse.ch/browse/) - ThreatFox is a platform from abuse.ch and Spamhaus dedicated to sharing indicators of compromise (IOCs) associated with malware, with the infosec community, AV vendors and cyber threat intelligence providers. Upload IOCs and explore the database for valuable intelligence. Use the APIs to seamlessly push and pull signals, and automate bulk queries.
 - [jasonmiacono/IOCs](https://github.com/jasonmiacono/IOCs) - Indicators of compromise for threat intelligence.
 - [makflwana/IOCs-in-CSV-format](https://github.com/makflwana/IOCs-in-CSV-format) - The repository contains IOCs in CSV format for APT, Cyber Crimes, Malware and Trojan and whatever I found as part of hunting and research.
 - [nshc-threatrecon/IoC-List](https://github.com/nshc-threatrecon/IoC-List) - NSHC ThreatRecon IoC Repository
